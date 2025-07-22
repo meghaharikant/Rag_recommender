@@ -21,5 +21,5 @@ This tool simplifies that process using basic NLP rules to provide:
 
 1. **Clone the repository**:
    ```bash
-  git clone https://github.com/meghaharikant/Rag_recommender.git
+git clone https://github.com/meghaharikant/Rag_recommender.git
 cd Rag_recommender
