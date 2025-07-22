@@ -27,14 +27,14 @@ This tool simplifies that process using basic NLP rules to provide:
    cd Rag_recommender
    
 (Optional) Create a virtual environment:
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+* python -m venv venv
+* source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 Install dependencies:
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
 Run the app:
-streamlit run rag_app.py
+* streamlit run rag_app.py
 
 📋 Example Use Cases
 * Real-time multilingual chatbot for rural areas
