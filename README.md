@@ -18,7 +18,6 @@ This tool simplifies that process using basic NLP rules to provide:
 - ✅ Ideal similarity metric (Cosine, Jaccard, Dot Product)
 - ✅ Optimal embedding model (MiniLM, SBERT, LaBSE, OpenAI)
 
----
 
 ## 🛠 Installation
 
@@ -38,12 +37,12 @@ Run the app:
 streamlit run rag_app.py
 
 📋 Example Use Cases
-Real-time multilingual chatbot for rural areas
-On-premise secure document search for enterprises
-PDF-based offline QA chatbot
+* Real-time multilingual chatbot for rural areas
+* On-premise secure document search for enterprises
+* PDF-based offline QA chatbot
 
 🧠 Built With
-Python 🐍
-Streamlit 🚀
-Basic NLP rules for smart recommendations
+* Python 🐍
+* Streamlit 🚀
+* Basic NLP rules for smart recommendations
 
